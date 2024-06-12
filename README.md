@@ -1,16 +1,28 @@
-## Hi there 👋
+# Šimon Cerman 👨‍💻
 
-<!--
-**simoncerman/simoncerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋,
 
-Here are some ideas to get you started:
+### I'm a junior programmer and aspiring rocket engineer.
+-------
+  
+## 🧐 About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏄‍ I'm working on more often addressing community things that are solved by programmers and helping them.
+- 📷 I love taking pictures, everything around me, capturing the moment. 
+- 🎓 I study computer science at the University of Hradec Kralove.
+- 🚀 Part of the Czech Rocket Society, the largest rocket society in the Czech Republic.  
+- 👯 And Many More...
+
+## Technologies
+> Technologies I use every day:
+>>     ✅ C# <br>
+>>     ✅ Javascript <br>
+>>     ✅ Java <br>
+>>     ✅ Swift <br>
+
+> Technologies I've stumbled upon and can navigate
+>>     ➡️ Wordpress
+>>     ➡️ PHP
+>>     ➡️ C
+>>     ➡️ Python
+>>     ➡️ React, Vue
