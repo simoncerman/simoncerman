@@ -15,10 +15,10 @@
 
 ## Technologies
 > Technologies I use every day:
->>     ✅ C# <br>
->>     ✅ Javascript <br>
->>     ✅ Java <br>
->>     ✅ Swift <br>
+>>     ✅ C#
+>>     ✅ Javascript
+>>     ✅ Java
+>>     ✅ Swift
 
 > Technologies I've stumbled upon and can navigate
 >>     ➡️ Wordpress
