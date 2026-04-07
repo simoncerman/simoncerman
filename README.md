@@ -15,14 +15,14 @@
 
 ## Technologies
 > Technologies I use every day:
->>     ✅ C#
->>     ✅ Javascript
->>     ✅ Java
->>     ✅ Swift
+>     ✅ C#
+>     ✅ Javascript
+>     ✅ Java
+>     ✅ Swift
 
 > Technologies I've stumbled upon and can navigate
->>     ➡️ Wordpress
->>     ➡️ PHP
->>     ➡️ C
->>     ➡️ Python
->>     ➡️ React, Vue
+>     ➡️ Wordpress
+>     ➡️ PHP
+>     ➡️ C
+>     ➡️ Python
+>     ➡️ React, Vue
