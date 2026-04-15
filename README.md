@@ -13,16 +13,3 @@
 - 🚀 Part of the Czech Rocket Society, the largest rocket society in the Czech Republic.  
 - 👯 And Many More...
 
-## Technologies
-> Technologies I use every day:
->     ✅ C#
->     ✅ Javascript
->     ✅ Java
->     ✅ Swift
-
-> Technologies I've stumbled upon and can navigate
->     ➡️ Wordpress
->     ➡️ PHP
->     ➡️ C
->     ➡️ Python
->     ➡️ React, Vue
